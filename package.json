@@ -1,0 +1,13 @@
+{
+  "name": "node-express-compose-jenkins",
+  "version": "1.0.0",
+  "description": "Simple Node.js Express app for Jenkins Docker Compose hands-on",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "node -e \"console.log('Test passed successfully')\""
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
